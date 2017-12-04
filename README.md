@@ -2,10 +2,10 @@
 
 ### Adresses
 
-The Movement Token (MVT) Address: 0x3d46454212c61ecb7b31248047fa033120b88668
+The Movement Token (MVT) Smart Contract Address: 0x3d46454212c61ecb7b31248047fa033120b88668
 https://etherscan.io/token/0x3d46454212c61ecb7b31248047fa033120b88668
 
-The Movement Initial Distribution Address: 0x6766158Ad3558DDC941CD008FE362884a5FDC644
+The Movement Initial Token Distribution Address: 0x6766158Ad3558DDC941CD008FE362884a5FDC644
 https://etherscan.io/address/0x6766158ad3558ddc941cd008fe362884a5fdc644
 
 The Movement Bounty Fund Address: 0xce3535fffaed5d0b08dc87f9cbd688d17ca97812
